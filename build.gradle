@@ -20,4 +20,5 @@ dependencies {
     implementation ('com.github.mjtb49:ChunkRandomReversal:e66e286f4bcc5f652ba53f61482fc7dca8ef7d49') {
         transitive = false
     }
+    implementation group: 'org.json', name: 'json', version: '20200518'
 }
